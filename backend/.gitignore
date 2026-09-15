@@ -1,0 +1,28 @@
+# Python files
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+.pytest_cache/
+.venv/
+venv/
+env/
+*.db
+*.db-journal
+*.log
+
+# Node/Vite build output and dependencies
+node_modules/
+dist/
+build/
+.vite/
+.env
+
+# System / IDE
+.DS_Store
+Thumbs.db
+.idea/
+.vscode/
+*.bak
+*.tmp
+*.old
